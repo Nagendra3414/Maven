@@ -1,4 +1,4 @@
-package MavenProj.MavenProject;
+package test;
 
 import java.util.List;
 
